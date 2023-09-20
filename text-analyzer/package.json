@@ -1,0 +1,14 @@
+{
+  "name": "text-analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "start": "serverless offline start --httpPort 3001"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-offline": "^12.0.4"
+  }
+}
